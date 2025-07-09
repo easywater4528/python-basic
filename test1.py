@@ -1,1 +1,1 @@
-hello mynameisyoublue  아하하하
+hello mynameisyoublue
