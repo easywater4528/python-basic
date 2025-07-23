@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 
 # 간단한 데이터
-x = [1, 2, 3, 4, 5]
-y = [1, 4, 9, 16, 25]
+x = [1, 2, 3, 4, 5, 6]
+y = [1, 4, 9, 16, 25, 50]
 
 # 그래프 그리기
 plt.plot(x, y, marker='o')
