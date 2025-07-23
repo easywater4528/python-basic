@@ -7,6 +7,9 @@ format_b = "{} {}".format(1,2) #1 2
 #{:d} 는 매개변수 안에 정수만 올 수 있다
 output_a = "{:d}.format(52)"
 
+#{:d} 는 매개변수 안에 소수돈 올 수 있다
+output_a = "{:f}.format(52.34)"
+
 #{:5d} 는 5칸을 잡고 뒤에서부터 채워라
 output_b = "{:5d}.format(52)" #   52
 
