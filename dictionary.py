@@ -12,7 +12,7 @@ print()
 
 name = "이름"
 dict_key = {
-    name: "jisoo lee"
+    name: "jisoo Lee"
 }
 print(dict_key)
 print()
